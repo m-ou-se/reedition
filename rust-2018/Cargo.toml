@@ -1,0 +1,10 @@
+[package]
+name = "rust-2018"
+description = "Macro to use Rust 2018 from all editions"
+repository = "https://github.com/m-ou-se/reedition"
+version = "1.0.0"
+license = "BSD-2-Clause"
+edition = "2018"
+
+[dependencies]
+reedition = { version = "=1.0.0", path = "../reedition" }

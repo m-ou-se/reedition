@@ -1,0 +1,2 @@
+[workspace]
+members = ["rust-2018", "example"]
