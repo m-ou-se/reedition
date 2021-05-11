@@ -5,3 +5,4 @@ edition = "2015"
 
 [dependencies]
 rust-2018 = { path = "../rust-2018" }
+rust-2021 = { path = "../rust-2021" }

@@ -1,2 +1,7 @@
 [workspace]
-members = ["rust-2018", "example"]
+members = [
+    "rust-2015",
+    "rust-2018",
+    "rust-2021",
+    "example",
+]

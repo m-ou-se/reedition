@@ -1,6 +1,6 @@
 [package]
 name = "reedition"
-description = "Helper macro for the rust-2018 crate"
+description = "Helper macro for the rust-20xx crates"
 repository = "https://github.com/m-ou-se/reedition"
 version = "1.0.0"
 license = "BSD-2-Clause"

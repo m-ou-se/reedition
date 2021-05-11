@@ -1,10 +1,12 @@
+cargo-features = ["edition2021"]
+
 [package]
-name = "rust-2018"
-description = "Macro to use Rust 2018 from all editions"
+name = "rust-2021"
+description = "Macro to use Rust 2021 from all editions"
 repository = "https://github.com/m-ou-se/reedition"
-version = "1.1.0"
+version = "1.0.0"
 license = "BSD-2-Clause"
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 reedition = { version = "=1.0.0", path = "../reedition" }
