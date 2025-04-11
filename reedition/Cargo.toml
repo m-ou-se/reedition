@@ -2,7 +2,7 @@
 name = "reedition"
 description = "Helper macro for the rust-20xx crates"
 repository = "https://github.com/m-ou-se/edition"
-version = "1.0.0"
+version = "1.0.1"
 license = "BSD-2-Clause"
 edition = "2018"
 

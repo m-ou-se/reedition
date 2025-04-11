@@ -1,3 +1,5 @@
+//! See [the `edition` crate](https://docs.rs/edition/).
+
 extern crate reedition;
 
 #[macro_export]

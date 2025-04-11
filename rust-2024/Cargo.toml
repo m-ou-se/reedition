@@ -2,7 +2,7 @@
 name = "rust-2024"
 description = "Macro to use Rust 2024 from all editions"
 repository = "https://github.com/m-ou-se/edition"
-version = "1.0.0"
+version = "1.0.1"
 license = "BSD-2-Clause"
 edition = "2024"
 

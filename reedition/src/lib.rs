@@ -1,3 +1,5 @@
+//! See [the `edition` crate](https://docs.rs/edition/).
+
 use proc_macro::{Group, Span, TokenStream, TokenTree};
 
 #[proc_macro]
