@@ -1,5 +1,3 @@
-cargo-features = ["edition2021"]
-
 [package]
 name = "rust-2021"
 description = "Macro to use Rust 2021 from all editions"
