@@ -2,15 +2,15 @@
 name = "edition"
 description = "Macros to switch between Rust editions"
 repository = "https://github.com/m-ou-se/edition"
-version = "1.0.0"
+version = "1.0.1"
 license = "BSD-2-Clause"
 edition = "2024"
 
 [dependencies]
-rust-2015 = { version = "=1.0.0", path = "../rust-2015", optional = true }
-rust-2018 = { version = "=1.1.0", path = "../rust-2018", optional = true }
-rust-2021 = { version = "=1.0.0", path = "../rust-2021", optional = true }
-rust-2024 = { version = "=1.0.0", path = "../rust-2024", optional = true }
+rust-2015 = { version = "1.0.0", path = "../rust-2015", optional = true }
+rust-2018 = { version = "1.1.0", path = "../rust-2018", optional = true }
+rust-2021 = { version = "1.0.0", path = "../rust-2021", optional = true }
+rust-2024 = { version = "1.0.0", path = "../rust-2024", optional = true }
 
 [features]
 default = ["rust-2015", "rust-2018", "rust-2021", "rust-2024"]

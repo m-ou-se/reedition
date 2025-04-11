@@ -7,4 +7,4 @@ license = "BSD-2-Clause"
 edition = "2015"
 
 [dependencies]
-reedition = { version = "=1.0.0", path = "../reedition" }
+reedition = { version = "1.0.0", path = "../reedition" }
