@@ -1,7 +1,7 @@
 [package]
 name = "rust-2015"
 description = "Macro to use Rust 2015 from all editions"
-repository = "https://github.com/m-ou-se/reedition"
+repository = "https://github.com/m-ou-se/edition"
 version = "1.0.0"
 license = "BSD-2-Clause"
 edition = "2015"

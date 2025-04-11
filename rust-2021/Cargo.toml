@@ -3,7 +3,7 @@ cargo-features = ["edition2021"]
 [package]
 name = "rust-2021"
 description = "Macro to use Rust 2021 from all editions"
-repository = "https://github.com/m-ou-se/reedition"
+repository = "https://github.com/m-ou-se/edition"
 version = "1.0.0"
 license = "BSD-2-Clause"
 edition = "2021"
