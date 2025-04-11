@@ -1,9 +1,10 @@
 [workspace]
 members = [
+    "edition",
     "rust-2015",
     "rust-2018",
     "rust-2021",
     "rust-2024",
-    "example",
+    "reedition",
 ]
 resolver = "3"
